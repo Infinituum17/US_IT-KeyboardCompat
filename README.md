@@ -50,5 +50,3 @@ Press `WIN + r` and type `shell:startup` inside the box that appears.
 When a folder opens up, put your executable there.
 
 Now the file will be executed everytime you boot up your computer 🥳
-
----
